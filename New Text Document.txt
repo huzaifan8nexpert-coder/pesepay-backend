@@ -1,4 +1,0 @@
-pom.xml
-mvnw
-mvnw.cmd
-src/
